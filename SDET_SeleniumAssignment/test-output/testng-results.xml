@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78570" started-at="2020-08-18T10:42:44Z" finished-at="2020-08-18T10:44:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78570" started-at="2020-08-18T10:42:44Z" finished-at="2020-08-18T10:44:03Z">
+      <class name="com.testcases.Olay">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testcases.Olay@27efef64]" name="init" is-config="true" duration-ms="18731" started-at="2020-08-18T10:42:44Z" finished-at="2020-08-18T10:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Olayengb()[pri:1, instance:com.testcases.Olay@27efef64]" name="Olayengb" duration-ms="12059" started-at="2020-08-18T10:43:03Z" finished-at="2020-08-18T10:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Olayengb -->
+        <test-method status="PASS" signature="SignInEnglish()[pri:2, instance:com.testcases.Olay@27efef64]" name="SignInEnglish" duration-ms="17085" started-at="2020-08-18T10:43:15Z" finished-at="2020-08-18T10:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInEnglish -->
+        <test-method status="PASS" signature="SignInGerman()[pri:3, instance:com.testcases.Olay@27efef64]" name="SignInGerman" duration-ms="17267" started-at="2020-08-18T10:43:32Z" finished-at="2020-08-18T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInGerman -->
+        <test-method status="PASS" signature="SignInSpain()[pri:4, instance:com.testcases.Olay@27efef64]" name="SignInSpain" duration-ms="13388" started-at="2020-08-18T10:43:49Z" finished-at="2020-08-18T10:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInSpain -->
+        <test-method status="PASS" signature="Quite()[pri:0, instance:com.testcases.Olay@27efef64]" name="Quite" is-config="true" duration-ms="1" started-at="2020-08-18T10:44:03Z" finished-at="2020-08-18T10:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quite -->
+      </class> <!-- com.testcases.Olay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
